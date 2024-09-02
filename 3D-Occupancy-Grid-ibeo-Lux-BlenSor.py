@@ -1,4 +1,3 @@
-
 # coding: utf-8
 
 # # 3D Occupancy Grid with ibeo Lux Laserscanner Data from BlenSor
